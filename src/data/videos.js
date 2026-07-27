@@ -12,7 +12,7 @@ const videos = [
   {
     id: 3,
     title: "Mi Mujer",
-    url: "https://www.youtube.com/watch?v=3LEH0lRsLlI",
+    url: "https://www.youtube.com/embed/3LEH0lRsLlI",
   },
 ];
 
