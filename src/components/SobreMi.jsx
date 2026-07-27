@@ -23,7 +23,7 @@ export default function SobreMi() {
           style={styles.imageWrapper}
         >
           <img
-            src="/images/about-photo.jpg"
+            src="/press-kit/images/about-photo.jpg"
             alt="Lean_ums - Sobre mí"
             style={styles.image}
           />

@@ -13,7 +13,7 @@ export default function Hero() {
           style={styles.imageContainer}
         >
           <img
-            src="/images/artist-photo.jpg"
+            src="/press-kit/images/artist-photo.jpg"
             alt="Lean_ums"
             style={styles.artistImage}
           />
